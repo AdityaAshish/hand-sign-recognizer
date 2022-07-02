@@ -1,0 +1,54 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 1px solid white;
+  border-radius: 30px;
+  width: 350px;
+  height: 300px; 
+}
+#result_sign_name ,#result_sign_name2  
+{
+  color: black;
+}
+.sign_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading
+{
+  font-size:20px;
+  border-radius:10px;
+letter-spacing: 10px;
+}
+
+#predictions_div 
+{
+border: 1px;
+border-color: white;
+border-radius: 30px;
+}
+
+label 
+{
+  font-size: 15px;
+  color: white;
+  padding:6px;
+  border-radius: 10px;
+  background-color: #c0d3ff;
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+}
